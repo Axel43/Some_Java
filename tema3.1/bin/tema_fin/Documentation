@@ -1,0 +1,17 @@
+In this Project I wrote a little program where the user can get the time one or more
+space ships need to travel between planets. The planets are set in a 3 dimensional 
+coordinate system. and the origin of the system is the Sun. 
+The coordinates will be converted in light years.
+The menu allows the user to:
+	Press the 'a' key: Add a planet. The user will be asked about the name of 
+	the planet and it's position/More planets and their positions.
+Press the 'b' key: 
+	 The user can delete the added planets. The program ignores the not necessary spaces
+	 The planets' names can be written anyhow. The program ignores uppercase and lowercase.
+Press the 'c' key: 
+	The user adds the space ship(s) itineraries.
+Press the 'd' key: 
+	The user will get the time you need to get between every planet that was introduced before.
+	The speed of the spaceship(s) is a constant 40000 km/h.
+Press the 'e' key:
+	Exit the app.
